@@ -14,4 +14,4 @@ Après avoir créé le formulaire, on vient maintenant dans **Power Automate** p
 - Enfin, on prend **Envoyer un e-mail (V2)** comme dernière action : ici, on utilise l'adresse mail que chaque participant a rempli dans le formulaire pour leurs envoyer le lien de l'enregistrement du call teams.
 
 
-![automatisation](automatisation_1.png)
+![automatisation](https://github.com/pascalsoh/automatisation-envoi-lien-d-un-call-par-mail/blob/cc10f47bb10738a12dd54c2753b29ba0057d33a4/automatisation_1.png)
